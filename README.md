@@ -1,4 +1,4 @@
-# Summer Data Science Internship at ["IHG Hotel & Resorts"](https://www.ihg.com/hotels/us/en/reservation)
+# Summer Internship at ["IHG Hotel & Resorts"](https://www.ihg.com/hotels/us/en/reservation)
 
 __DETAILS:__  
 * During the summer of 2023, I worked at IHG Hotel & Resorts as a Marketing Data Analyst Intern in IHG's Advanced Analytics team under Adam Moseley. 
