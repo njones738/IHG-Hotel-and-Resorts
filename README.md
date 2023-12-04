@@ -12,14 +12,3 @@ __TOOLS:__
 __EXPERIENCE:__
 * My main project during the summer was analyzing a private promotional campaign sent to promo-inactive members. 
 * At the end of the summer, I delivered my analysis in the form of a Powerpoint presentation to the marketing team at IHG.   
-
-
-## Folder structure
-
-```
-- readme.md
-- Summer Project Deliverables
----- README.md
----- Summer Campaign Analysis
----- Final Internship Presentation
-```
